@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) #TMAdminz
+
 # ~~Telegram~~ Torrent / YouTube Leecher 🔥🤖
 
 A Telegram Torrent, youtube-dl Leecher, and rClone / Telegram Uploader!
